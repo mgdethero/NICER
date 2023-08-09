@@ -1,1 +1,2 @@
 # NICER
+This notebook is an example of how to analyze NICER data in a Python notebook. The  data are downloaded from the HEASARC browse query for x-ray binary LS V +44 17. Data used in this notebook are processed with nicerl2 and nicerl3 tools before loaded into the notebook. For further help see the NICER analysis threads: https://heasarc.gsfc.nasa.gov/docs/nicer/analysis_threads/
